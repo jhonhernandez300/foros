@@ -1,37 +1,28 @@
-Angular libro		1+++  2+++ 3
+Angular libro		->
 %60
-Useful TypeScript Features
+Type Annotating Properties and Variables
 https://learning.oreilly.com/library/view/pro-angular-9/9781484259986/A421542_4_En_6_Chapter.html
+https://learning.oreilly.com/library/view/pro-angular-9/9781484259986/A421542_4_En_7_Chapter.html
 
-Testing angular libro	1+++  2+   3
-%60
-Testing the happy path
+Testing angular libro	
+%70	+
+Testing services with promises
 https://learning.oreilly.com/library/view/testing-angular-applications/9781617293641/c06.xhtml#h1-293641c06-0002
 
-typescript > promise 	++
-https://stackoverflow.com/search?tab=relevance&q=typescript%20promise
-
-Jasmine > expect	++
-https://stackoverflow.com/search?q=jasmine+expect
-
-jasmine > fixture	++
-https://stackoverflow.com/search?q=jasmine+fixture
-
-Remington	1++  2  3 
-https://www.youtube.com/watch?v=Ox-WfmDKpSA&list=PLidrm3TSEdJMhHpMmyEWnzy8jMq9HuyhM&index=3&ab_channel=julioprofe
+Remington	1+++  2  3 
+https://www.youtube.com/watch?v=gGiP4xOvLKI&list=PLidrm3TSEdJMhHpMmyEWnzy8jMq9HuyhM&index=4&ab_channel=julioprofe
  
-css libro	1+   2   3
-https://learning.oreilly.com/videos/css-bootcamp-master/9781800202801/9781800202801-video2_12/
+css libro	+
+https://learning.oreilly.com/videos/css-bootcamp-master/9781800202801/9781800202801-video2_13/
 
-The art of software testing	++
-https://fktpm.ru/file/114-the-art-of-software-testing-3-edition.pdf
-
-Jasmine > configureTestingModule	
-Reduce the setup
+Jasmine > configureTestingModule    +
+createComponent()
 https://angular.io/guide/testing-components-basics
 https://www.google.com/search?q=jasmine+configureTestingModule&oq=jasmine+configureTestingModule&aqs=chrome..69i57j0i19i22i30.2294j0j4&sourceid=chrome&ie=UTF-8
 
 Jasmine github 
+%10
+Matchers
 https://jasmine.github.io/tutorials/your_first_suite#section-Spies
 
 less libro2	
@@ -46,9 +37,16 @@ https://learning.oreilly.com/videos/writing-css-with/9781771371704/9781771371704
 
 css > formulario
 
+Aplicación empresa 	
+https://codepen.io/uiswarup/pen/dyyqaGR
+
 angular io > Developer Guides > Http client 
 i
 https://angular.io/guide/http#testing-http-requests
+
+Vídeos > Angular (Testing)	1  2  3
+min 10 ->2
+video 6 2
 
 Jasmine > Testear un componente		
 Testeando llamadas asíncronas
@@ -87,11 +85,7 @@ https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
 stackoverflow > .net core
 https://stackoverflow.com/search?tab=votes&q=.net%20core
 
-Udemy > grabar más vídeos
-
-Vídeos > Angular (Testing)	1  2  3
-min 10 ->2
-video 6 2
+Udemy > buscar cursos
 
 Diseñar casos de prueba
 https://www.youtube.com/watch?v=rQf50sYvgJE&ab_channel=TestingParaTodos
@@ -117,12 +111,9 @@ React > onChange
 
 .net core > return
 
-Angular Carpeta codigo de ejemplo
+Angular > Carpeta codigo de ejemplo
 
 React > onBlur
-
-Aplicación empresa 	
-https://codepen.io/uiswarup/pen/dyyqaGR
 
 Vídeos > VS Code > VS Code 3 
 min
@@ -912,4 +903,17 @@ Programa automatizador de .net core
 
 Jasmine > inject	
 https://stackoverflow.com/search?q=jasmine+inject
+
+typescript > promise 	
+https://stackoverflow.com/search?tab=relevance&q=typescript%20promise
+
+Jasmine > expect	
+https://stackoverflow.com/search?q=jasmine+expect
+
+jasmine > fixture	
+https://stackoverflow.com/search?q=jasmine+fixture
+
+The art of software testing	
+16
+https://fktpm.ru/file/114-the-art-of-software-testing-3-edition.pdf
 
