@@ -11,6 +11,11 @@ https://learning.oreilly.com/library/view/testing-angular-applications/978161729
 
 Remington	1+++  2  3 
 https://www.youtube.com/watch?v=gGiP4xOvLKI&list=PLidrm3TSEdJMhHpMmyEWnzy8jMq9HuyhM&index=4&ab_channel=julioprofe
+
+Inglés > agregar un enlace nuevo
+
+Aplicación empresa 	
+https://codepen.io/uiswarup/pen/dyyqaGR
  
 css libro	+
 https://learning.oreilly.com/videos/css-bootcamp-master/9781800202801/9781800202801-video2_13/
@@ -30,15 +35,10 @@ less libro2
 i
 https://learning.oreilly.com/library/view/beginning-css-preprocessors/9781484213476/9781484213483_Ch02.xhtml#Sec1
 
-Inglés > agregar un enlace nuevo
-
 less libro1	
 https://learning.oreilly.com/videos/writing-css-with/9781771371704/9781771371704-video156657/
 
 css > formulario
-
-Aplicación empresa 	
-https://codepen.io/uiswarup/pen/dyyqaGR
 
 angular io > Developer Guides > Http client 
 i
@@ -53,12 +53,18 @@ Testeando llamadas asíncronas
 https://codingpotions.com/angular-testing
 https://www.google.com/search?q=jasmine+testing+de+un+componente&sxsrf=ALeKk033DBNCnTZ8mJHtiZHWRHUfyH31tw%3A1628740895236&ei=H50UYer0DcmUwbkPhP-puAo&oq=jasmine+testing+de+un+componente&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BAgAEBM6CAgAEA0QHhATSgQIQRgAUI1dWMtpYNhvaAJwAngAgAGcAYgBkA2SAQQwLjEymAEAoAEByAEIwAEB&sclient=gws-wiz&ved=0ahUKEwiqgPfTzKryAhVJSjABHYR_CqcQ4dUDCA4&uact=5
 
+Preguntas entrevista de trabajo > Angular 	
+
 PluralSight > Practical
 https://app.pluralsight.com/course-player?clipId=9a0b8536-fbee-4334-befe-4a069b8dfc52
+
+Preguntas entrevista de trabajo > C# 	
 
 Angular io > Developer Guides > Testing		
 Component DOM testing
 https://angular.io/guide/testing-components-basics
+
+Preguntas entrevista de trabajo > .net core 	
 
 jasmine > not working
 
@@ -75,6 +81,8 @@ Angular codigo de ejemplo
 
 PluralSight > Advanced
 https://app.pluralsight.com/library/courses/reactjs-advanced/table-of-contents
+
+Preguntas entrevista de trabajo > POO 	
 
 PluralSight > And Redux
 https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents
@@ -121,7 +129,7 @@ min
 
 Jasmin > Testear un formulario
 
-Preguntas entrevista de trabajo > .net core 	
+
 
 Stackoverflow > Angular > does not exist
 
@@ -137,14 +145,14 @@ https://www.youtube.com/watch?v=7WSMvufDh7s&ab_channel=ARCTutorials
 css > Menú desplegable
 https://www.youtube.com/watch?v=ELPK72kqpjM&ab_channel=InformaticaStudios
 
-Preguntas entrevista de trabajo > POO 	
+
 
 Tour of heroes 	
 https://angular.io/tutorial/toh-pt5
 
 Jasmin > Testear un servicio
 
-Preguntas entrevista de trabajo > C# 	
+
 
 ************************************************************************
 typescript > Enums
@@ -751,7 +759,6 @@ https://www.google.com/search?q=javascript+closure&sxsrf=ALeKk00PEkcgm03-hTwZtHX
 
 inglés > hablar fluido		
 
-Preguntas entrevista de trabajo > Angular 	
 
 Bootstrap > menu	
 Archivo bootstrap > Responsive Side bar menu
