@@ -1,19 +1,28 @@
-Angular libro		->
-%60
-Type Annotating Properties and Variables
-https://learning.oreilly.com/library/view/pro-angular-9/9781484259986/A421542_4_En_6_Chapter.html
-https://learning.oreilly.com/library/view/pro-angular-9/9781484259986/A421542_4_En_7_Chapter.html
+Remington	1+++  2+++  3+
+https://www.youtube.com/watch?v=gCqprj3jTzQ&list=PLidrm3TSEdJMhHpMmyEWnzy8jMq9HuyhM&index=8&ab_channel=julioprofe
 
-Testing angular libro	
-%70	+
-Testing services with promises
-https://learning.oreilly.com/library/view/testing-angular-applications/9781617293641/c06.xhtml#h1-293641c06-0002
+Aplicación empresa > css	+
+https://codepen.io/abdullahturel/pen/ypYmQj
 
-Remington	1+++  2  3 
-https://www.youtube.com/watch?v=gGiP4xOvLKI&list=PLidrm3TSEdJMhHpMmyEWnzy8jMq9HuyhM&index=4&ab_channel=julioprofe
- 
+inglés		
+hay un pdf: ingles a2 pag 18
+https://cambridgemb.com/examenes-certificaciones-test-oficiales-exams/ket-key-english-test-a2/ejemplos-modelos-practicar-preparacion-pdf/
+https://cambridgemb.com/recursos-ejemplos-modelos-examenes/
+https://www.google.com/search?q=pet+cambridge+ejercicios+resueltos&oq=pet+cambridge+ejercicios+resueltos&aqs=chrome..69i57j33i160.15959j0j7&sourceid=chrome&ie=UTF-8
+
+Vídeos > Angular (Testing)	1  2  3
+min 10 ->2
+video 6 2
+
+Aplicación empresa > backend
+
 css libro	+
 https://learning.oreilly.com/videos/css-bootcamp-master/9781800202801/9781800202801-video2_13/
+
+inglés > B1
+https://www.google.com/search?q=ingl%C3%A9s+b1+solutions+pdf&sxsrf=ALeKk00p2Y-PmwOVBT1v5qcVvaBN6b3sgA%3A1629349701421&ei=RecdYfSXGbCKwbkPy8Gp4AQ&oq=ingl%C3%A9s+b1+solutions+pdf&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABQs8ECWOnNAmCe0QJoAXACeACAAY0BiAGOBJIBAzAuNJgBAKABAcgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwi0zqvRqLzyAhUwRTABHctgCkwQ4dUDCA4&uact=5
+
+Aplicación empresa > front
 
 Jasmine > configureTestingModule    +
 createComponent()
@@ -30,23 +39,19 @@ less libro2
 i
 https://learning.oreilly.com/library/view/beginning-css-preprocessors/9781484213476/9781484213483_Ch02.xhtml#Sec1
 
-Inglés > agregar un enlace nuevo
-
 less libro1	
 https://learning.oreilly.com/videos/writing-css-with/9781771371704/9781771371704-video156657/
 
 css > formulario
 
-Aplicación empresa 	
-https://codepen.io/uiswarup/pen/dyyqaGR
-
 angular io > Developer Guides > Http client 
 i
 https://angular.io/guide/http#testing-http-requests
 
-Vídeos > Angular (Testing)	1  2  3
-min 10 ->2
-video 6 2
+Angular libro		
+%60
+Creating the Feature Module
+https://learning.oreilly.com/library/view/pro-angular-9/9781484259986/A421542_4_En_7_Chapter.html
 
 Jasmine > Testear un componente		
 Testeando llamadas asíncronas
@@ -55,6 +60,11 @@ https://www.google.com/search?q=jasmine+testing+de+un+componente&sxsrf=ALeKk033D
 
 PluralSight > Practical
 https://app.pluralsight.com/course-player?clipId=9a0b8536-fbee-4334-befe-4a069b8dfc52
+
+Testing angular libro	
+%80	
+Testing for failures with asynchronous services
+https://learning.oreilly.com/library/view/testing-angular-applications/9781617293641/c06.xhtml#h1-293641c06-0002
 
 Angular io > Developer Guides > Testing		
 Component DOM testing
@@ -65,12 +75,6 @@ jasmine > not working
 PluralSight > Fundamentals
 https://app.pluralsight.com/course-player?clipId=2d583cb0-eddc-4959-8938-a38504e16dd0
 
-inglés		
-hay un pdf: ingles a2 pag 18
-https://cambridgemb.com/examenes-certificaciones-test-oficiales-exams/ket-key-english-test-a2/ejemplos-modelos-practicar-preparacion-pdf/
-https://cambridgemb.com/recursos-ejemplos-modelos-examenes/
-https://www.google.com/search?q=pet+cambridge+ejercicios+resueltos&oq=pet+cambridge+ejercicios+resueltos&aqs=chrome..69i57j33i160.15959j0j7&sourceid=chrome&ie=UTF-8
-
 Angular codigo de ejemplo 
 
 PluralSight > Advanced
@@ -78,6 +82,8 @@ https://app.pluralsight.com/library/courses/reactjs-advanced/table-of-contents
 
 PluralSight > And Redux
 https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents
+
+Inglés > agregar un enlace nuevo
 
 PluralSight > Hooks
 https://app.pluralsight.com/library/courses/using-react-hooks/table-of-contents
